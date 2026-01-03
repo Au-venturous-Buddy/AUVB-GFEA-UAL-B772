@@ -1,10 +1,10 @@
 {
-  "name": "auvb-gfea-ual-b763",
+  "name": "auvb-gfea-ual-b772",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/AUVB Logo.png",
-    "productName": "Au-venturous Buddy Gotta Fly 'Em All: United Airlines B767-300ER",
+    "productName": "Au-venturous Buddy Gotta Fly 'Em All: United Airlines B777-200(ER)",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,7 +46,7 @@
     }
   },
   "private": true,
-  "description": "United Airlines B767-300ER",
+  "description": "United Airlines B777-200(ER)",
   "version": "1",
   "license": "0BSD",
   "scripts": {

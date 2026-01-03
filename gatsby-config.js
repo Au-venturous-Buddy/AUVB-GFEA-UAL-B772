@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Au-venturous Buddy Gotta Fly 'Em All: United Airlines B767-300ER`,
+    title: `Au-venturous Buddy Gotta Fly 'Em All: United Airlines B777-200(ER)`,
     author: `Au-venturous Buddy`
   },
   plugins: [
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Au-venturous Buddy Gotta Fly 'Em All: United Airlines B767-300ER`,
-        short_name: `AUVB-GFEA-UAL-B763`,
+        name: `Au-venturous Buddy Gotta Fly 'Em All: United Airlines B777-200(ER)`,
+        short_name: `AUVB-GFEA-UAL-B772`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
